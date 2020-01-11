@@ -19,12 +19,14 @@ AR for Education
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -m 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+5. Submit a pull request.
+   - Please provide a clear description of what you're doing (either a bugfix or a new feature).
+   - Please make sure your branch build locally before sending a pull request.
 
 
 # Contributor Code of Conduct
 
-Contribution is open to the community, anyone can contribute.
+Contribution is open to the community, anyone can contribute and I'm really glad you're reading this, because we need volunteer to help our **Project 2020** grow and get better..
 
 As contributors of Project 2020, we pledge to respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
 
