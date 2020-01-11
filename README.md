@@ -10,7 +10,7 @@ Mobile App for Emergency
 
 USSD Reporting Emergency/Others
  
-Open Source Photo Sharing - Tourism
+Open Source Photo Sharing - Tourism App for Niger State
 
 AR for Education
 
