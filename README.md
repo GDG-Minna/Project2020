@@ -14,7 +14,7 @@ Open Source Photo Sharing - Tourism App for Niger State
 
 AR for Education
 
-#Contributing
+# Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
 3. Commit your changes: `git commit -m 'Add some feature'`
