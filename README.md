@@ -1,4 +1,4 @@
-# Project2020
+# Project 2020
 
 Our mission this year is to **Build** - **Impact** - **Scale** 
  
